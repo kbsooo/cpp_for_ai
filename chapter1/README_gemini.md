@@ -1100,8 +1100,4 @@ int main() {
 이러한 현대적 C++의 기초 요소들은 서로 결합하여 강력한 시너지를 발휘합니다. 예를 들어, STL 알고리즘은 람다 표현식과 함께 사용될 때 더욱 유연해지고, RAII는 동시성 프로그래밍에서 자원과 락을 안전하게 관리하는 데 핵심적입니다.[9, 32]
 
 이 장에서 다룬 기초 지식은 이어지는 장들에서 논의될 더 고급 최적화 기법, 저수준 구현 전략, 그리고 특정 AI/ML 라이브러리(예: LibTorch, TensorFlow C++ API, ONNX Runtime)를 C++ 환경에서 효과적으로 사용하는 방법을 이해하는 데 튼튼한 기반이 될 것입니다.[1, 2] 현대적 C++의 기능을 능숙하게 활용하는 것은 AI/ML 분야에서 고성능, 고효율 솔루션을 개발하기 위한 핵심 역량입니다.[3, 4]
-
-```
-
-You can copy and paste this content into a file named `chapter1.md` or similar. Let me know if you need anything else!
-```
+$$
